@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # recipe-finder
 Simple recipe finder made in React using the edamam API
->>>>>>> c8f2aa238a56d31e258e3af9c535521db53a7ddb
+
